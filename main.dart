@@ -113,6 +113,7 @@ class myClass {
   myClass() {
     //Default Construc
     print('mysirg new ');
+    print("welcome to");
   }
 
   //decleration

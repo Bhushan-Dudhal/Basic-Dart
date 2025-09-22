@@ -11,6 +11,8 @@ main() {
   Map_Name['key4'] = "rohan";
   Map_Name['key5'] = "bharat";
   Map_Name['key6'] = "rahul";
+  Map_Name['key7'] = "akshay";
+
 
 
 

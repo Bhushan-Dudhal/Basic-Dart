@@ -9,6 +9,9 @@ main() {
   Map_Name['key2'] = "ram";
   Map_Name['key3'] = "sham";
   Map_Name['key4'] = "rohan";
+  Map_Name['key5'] = "bharat";
+  Map_Name['key6'] = "rahul";
+
 
 
   print(Map_Name.isEmpty);
